@@ -63,7 +63,7 @@ export const ArticleParamsForm = ({
 						onReset={() => {
 							onReset();
 						}}>
-						<h2 className={styles.title}>Задайте параметры</h2>
+						<h2 className={styles.title}>ЗАДАЙТЕ ПАРАМЕТРЫ</h2>
 						<div className={styles.field}>
 							<Select
 								title='Шрифт'
