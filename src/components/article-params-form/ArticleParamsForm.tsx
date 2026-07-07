@@ -132,7 +132,6 @@ export const ArticleParamsForm = ({
 								}
 							/>
 						</div>
-						<div className={styles.buttonsSpacer} />
 						<div className={styles.bottomContainer}>
 							<Button title='Сбросить' htmlType='reset' type='clear' />
 
